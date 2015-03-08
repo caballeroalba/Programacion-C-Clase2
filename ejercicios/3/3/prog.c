@@ -5,8 +5,8 @@
 
 int main(int argc, char **argv)
 {
-	char buf[5];
-
+	char *buf[5];
+    buf=(void *)malloc(sizeof(buf));
 	snprintf(buf, 50, "Que tipo de error de memoria soy");
 	printf("%s\n", buf);
 
