@@ -7,8 +7,8 @@ int main(void)
 
 	c1 = curso_coche_alloc();
 
-	curso_coche_attr_set_str(c1, CURSO_COCHE_ATTR_MATRICULA, "DF 67838 SE");
-	curso_coche_attr_set_str(c1, CURSO_COCHE_ATTR_MARCA, "mini");
+	curso_tarea_attr_set_str(c1, CURSO_COCHE_ATTR_MATRICULA, "DF 67838 SE");
+	curso_tarea_attr_set_str(c1, CURSO_COCHE_ATTR_MARCA, "mini");
 	curso_coche_attr_set_u32(c1, CURSO_COCHE_ATTR_ID, 0);
 
 	curso_coche_snprintf(info, sizeof(info), c1);

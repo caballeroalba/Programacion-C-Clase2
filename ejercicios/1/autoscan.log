@@ -1,0 +1,40 @@
+autoscan: warning: missing AC_CHECK_FUNCS([strdup]) wanted by: 
+	src/tarea.c:88
+	src/tarea.c:94
+	src/tarea.c:100
+	src/tarea.c:106
+autoscan: warning: missing AC_CHECK_HEADER_STDBOOL wanted by: 
+	src/tarea.h:24
+	src/tarea.c:35
+autoscan: warning: missing AC_TYPE_SIZE_T wanted by: 
+	src/tarea.h:37
+	src/tarea.c:157
+autoscan: warning: missing AC_TYPE_UINT16_T wanted by: 
+	src/tarea.h:24
+	src/tarea.h:26
+	src/tarea.h:28
+	src/tarea.h:30
+	src/tarea.h:31
+	src/tarea.h:33
+	src/tarea.h:34
+	src/tarea.h:35
+	src/tarea.c:35
+	src/tarea.c:40
+	src/tarea.c:77
+	src/tarea.c:116
+	src/tarea.c:121
+	src/tarea.c:126
+	src/tarea.c:146
+	src/tarea.c:152
+autoscan: warning: missing AC_TYPE_UINT32_T wanted by: 
+	src/tarea.h:29
+	src/tarea.h:30
+	src/tarea.h:34
+	src/tarea.c:5
+	src/tarea.c:11
+	src/tarea.c:78
+	src/tarea.c:109
+	src/tarea.c:116
+	src/tarea.c:118
+	src/tarea.c:146
+	src/tarea.c:149

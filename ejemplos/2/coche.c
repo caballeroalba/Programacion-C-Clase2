@@ -3,7 +3,7 @@
 
 struct coche {
 	uint32_t	id;
-	const char      *matricula;
+	const char  *matricula;
 	const char	*marca;
 
 	uint32_t	flags;
