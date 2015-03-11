@@ -1,0 +1,1 @@
+no se ha reservado memoria para el coche con alloc

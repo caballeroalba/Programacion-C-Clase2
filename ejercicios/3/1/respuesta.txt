@@ -1,0 +1,2 @@
+Se ha liberado el coche antes de imprimir la lista y se esta
+atacando a memeora erronea

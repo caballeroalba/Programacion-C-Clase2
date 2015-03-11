@@ -29,7 +29,7 @@ int main(void)
 	curso_concesionario_attr_set_coche(con, CURSO_CONCESIONARIO_ATTR_COCHE,
 					   c2);
 
-	curso_concesionario_attr_unset_coche(con, 0);
+	//curso_concesionario_attr_unset_coche(con, 0);
 
 	curso_concesionario_snprintf(info, sizeof(info), con);
 	printf("%s", info);

@@ -1,0 +1,20 @@
+From a833b3ba09e76740ddd85af445f4d84ff45be203 Mon Sep 17 00:00:00 2001
+From: Jose Maria Caballero Alba <caballeroalba@gmail.com>
+Date: Fri, 6 Mar 2015 16:55:08 +0100
+Subject: [PATCH] aaa
+
+---
+ prueba | 1 +
+ 1 file changed, 1 insertion(+)
+ create mode 100644 prueba
+
+diff --git a/prueba b/prueba
+new file mode 100644
+index 0000000..249611a
+--- /dev/null
++++ b/prueba
+@@ -0,0 +1 @@
++slkjslsk
+-- 
+1.9.1
+
